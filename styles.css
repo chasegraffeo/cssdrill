@@ -84,15 +84,36 @@ span {
     
 }
 
-.original {
+#show1 { 
     position: relative;
     top: 50px;
+    color: black;
 }
 
-.additional {
+#show2 { 
     position: relative;
     top: 50px;
+    color: blue;
 }
+
+#show3 {
+    position: relative;
+    top: 50px;
+    color: blueviolet;
+}
+
+#show4 {
+    position: relative;
+    top: 50px;
+    color: red;
+}
+
+#show5 {
+    position: relative;
+    top: 50px;
+    color: purple
+}
+
 
 .container1 {
     position: relative;
@@ -101,12 +122,14 @@ span {
 
 ul {
     color: teal;
+    margin: 0;
+    border: 2px solid black;
 }
 
 .star {
-    border: 2px, solid, black;
     color: yellowgreen;
 }
-.wars {
-    font: black;
+
+#wars {
+    color: black;
 }
