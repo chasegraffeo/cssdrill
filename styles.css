@@ -24,6 +24,7 @@ p {
 a:hover {
     color: blue;
     font-weight: bold;
+    cursor: crosshair;
 }
 
 
